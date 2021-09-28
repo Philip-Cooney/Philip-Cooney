@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Philip-Cooney
 - 👀 I’m interested in Statistical applications of Health Economics
 - 🌱 I’m currently studying a PhD in Survival analysis.
-- 💞️ I’m looking to collaborate on topics within my area of interest.
+- 💞️ I’m a bit of a lone wolf but would be happy to collaborate on topics within my area of interest (i.e. survival analysis in economic evaluations).
 - 📫 How to reach me: phcooney@tcd.ie
 
 <!---
